@@ -1,11 +1,11 @@
 ---
-name: Práctica Apl. Parcial y Orden Superior
+name: Práctica Aplicación Parcial y Orden Superior
 locale: es
 type: practice
 beta: false
-teacher_info: 
+teacher_info: ''
 language: haskell
-id_format: '%05d'
+id_format: "%05d"
 order:
 - 1
 - 2
