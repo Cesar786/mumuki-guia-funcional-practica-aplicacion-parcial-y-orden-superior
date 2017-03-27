@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: cuantoPagaCadaUno
+  inspection: HasBinding
+- binding: cuantoPagaCadaUno
+  inspection: HasComposition
+- binding: cuantoPagaCadaUno
+  inspection: HasUsage:techo
