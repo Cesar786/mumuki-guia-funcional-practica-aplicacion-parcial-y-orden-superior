@@ -4,3 +4,7 @@ expectations:
   inspection: HasBinding
 - binding: cuantoPagaCadaUno
   inspection: HasUsage:techo
+- binding: techo
+  inspection: Not:HasBinding
+- binding: cuantoPagaCadaUno
+  inspection: HasComposition
