@@ -1,0 +1,1 @@
+techo = fromIntegral.ceiling
