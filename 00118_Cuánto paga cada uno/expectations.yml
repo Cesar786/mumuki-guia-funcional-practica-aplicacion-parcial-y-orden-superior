@@ -9,4 +9,4 @@ expectations:
 - binding: cuantoPagaCadaUno
   inspection: HasComposition
 - binding: "*"
-  inspection: UsesWrongCaseBindings
+  inspection: Except:HasRedundantParameter
