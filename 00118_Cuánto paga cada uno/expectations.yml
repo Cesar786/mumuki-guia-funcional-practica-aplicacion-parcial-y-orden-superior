@@ -8,3 +8,5 @@ expectations:
   inspection: Not:HasBinding
 - binding: cuantoPagaCadaUno
   inspection: HasComposition
+- binding: "*"
+  inspection: UsesWrongCaseBindings
