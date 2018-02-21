@@ -7,4 +7,4 @@ expectations:
 - binding: componer
   inspection: Not:HasUsage:.
 - binding: componer
-  inspection: DeclaresTypeSignature:(b -> c) -> (a -> b) -> a -> c
+  inspection: DeclaresTypeSignature
