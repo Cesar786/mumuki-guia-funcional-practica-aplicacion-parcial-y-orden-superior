@@ -6,3 +6,5 @@ expectations:
   inspection: HasBinding
 - binding: componer
   inspection: Not:HasUsage:.
+- binding: componer
+  inspection: DeclaresTypeSignature
