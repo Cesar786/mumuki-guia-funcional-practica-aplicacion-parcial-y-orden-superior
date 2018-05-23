@@ -2,7 +2,7 @@ Definí una función `incrementMCuadradoN`, que aplicándola con 2 números m y 
 incrementa en n al cuadrado de m por Ej: 
 
 ```haskell
-Main> incrementMCuadradoN 3 2
+ incrementMCuadradoN 3 2
 11
 ```
 
