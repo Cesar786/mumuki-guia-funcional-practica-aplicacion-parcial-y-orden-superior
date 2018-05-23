@@ -3,7 +3,7 @@ Definir una función `cuantoPagaCadaUno`, que aplicándola con un precio de pizz
 Tener en cuenta que cada comensal come 3 porciones y sólo se pueden comprar pizzas enteras (que tiene cada una 8 porciones).
 
 ```haskell
- cuantoPagaCadaUno 120 3
+Main> cuantoPagaCadaUno 120 3
 80.0
 ```
 
