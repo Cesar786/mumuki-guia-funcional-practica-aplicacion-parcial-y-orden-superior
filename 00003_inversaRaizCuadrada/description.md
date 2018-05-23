@@ -1,4 +1,4 @@
-﻿Resolver la función **inversaRaizCuadrada**/1, que da un número n devolver la
+Resolvé la función `inversaRaizCuadrada`, que da un número n devolver la
 inversa su raíz cuadrada.
 
 ```haskell
