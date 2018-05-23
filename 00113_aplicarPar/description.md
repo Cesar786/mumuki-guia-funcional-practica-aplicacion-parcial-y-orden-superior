@@ -1,4 +1,4 @@
-Definir la función ```aplicarPar/2```, que recibe una función y dos valores, y devuelve un **par** que 
+Definí la función `aplicarPar`, que recibe una función y dos valores, y devuelve un **par** que 
 resulta de aplicar la función a los dos valores.
 
 ```haskell
