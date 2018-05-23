@@ -1,4 +1,4 @@
-Definir la función `darVuelta` que toma una función de dos argumentos y devuelve otra que toma los mismos argumentos, pero dados vuelta. 
+Definí la función `darVuelta` que toma una función de dos argumentos y devuelve otra que toma los mismos argumentos, pero dados vuelta. 
 
 Ejemplo: 
 
