@@ -1,4 +1,4 @@
-Definir la función ```mejor/3```, que recibe dos funciones y un número, y devuelve el resultado de 
+Definí la función `mejor`, que recibe dos funciones y un número, y devuelve el resultado de 
 la función que dé un valor más alto. 
 
 ```haskell
