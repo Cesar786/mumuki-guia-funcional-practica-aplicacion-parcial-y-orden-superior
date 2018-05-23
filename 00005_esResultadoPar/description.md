@@ -1,8 +1,8 @@
-﻿Definir una función `esResultadoPar`, que aplicándola con número n y otro m,
+Definir una función `esResultadoPar`, que aplicándola con número n y otro m,
 devuelve true si el resultado de elevar n a m es par.
 
 ```haskell
-Main> esResultadoPar 2 5
+ esResultadoPar 2 5
 True
 
 Main> esResultadoPar 3 2
