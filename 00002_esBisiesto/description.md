@@ -7,4 +7,4 @@ Un año es bisiesto si:
 
 **Nota**: Resolvelo reutilizando la función `esMultiploDe`, que dice si el primer argumento es multiplo del segundo. Asumir que esta función existe.
 
-**Además, utilizar composición y aplicació parcial**
+**Además, utilizá composición y aplicació parcial**
