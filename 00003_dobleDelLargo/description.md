@@ -5,4 +5,4 @@
 10
 ```
 
-**Nota**: Resolverlo utilizando la función **length** , aplicación parcial y composición.
+**Nota**: Resolverlo utilizando la función **length**, aplicación parcial y composición.
