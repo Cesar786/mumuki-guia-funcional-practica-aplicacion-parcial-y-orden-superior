@@ -3,4 +3,4 @@ describe "dobleDelLargo" $ do
     dobleDelLargo "aloha" `shouldBe` 10
 	
   it "dobleDelLargo \"\" == 0" $ do
-    inversaRaizCuadrada "" `shouldBe` 0
+    dobleDelLargo "" `shouldBe` 0
