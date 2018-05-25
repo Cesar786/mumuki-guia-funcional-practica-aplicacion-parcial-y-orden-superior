@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: dobleDelLargo
+  inspection: HasBinding
+- binding: dobleDelLargo
+  inspection: HasComposition
+- binding: dobleDelLargo
+  inspection: HasUsage:length
