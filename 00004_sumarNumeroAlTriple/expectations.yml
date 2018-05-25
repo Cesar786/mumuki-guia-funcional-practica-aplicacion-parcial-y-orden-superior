@@ -1,8 +1,8 @@
 ---
 expectations:
-- binding: incrementMCuadradoN
+- binding: sumarNumeroAlTriple
   inspection: HasBinding
-- binding: incrementMCuadradoN
+- binding: sumarNumeroAlTriple
   inspection: Not:HasLambda
-- binding: incrementMCuadradoN
+- binding: sumarNumeroAlTriple
   inspection: HasComposition
