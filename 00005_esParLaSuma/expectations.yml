@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: esResultadoPar
+- binding: esParLaSuma
   inspection: HasBinding
-- binding: esResultadoPar
+- binding: esParLaSuma
   inspection: HasComposition
