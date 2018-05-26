@@ -2,11 +2,9 @@ Definí la función `mejor`, que recibe dos funciones y un número, y devuelve e
 la función que dé un valor más alto. 
 
 ```haskell
-Main> mejor cuadrado triple 1
+ム mejor cuadrado triple 1
 3
-```
 
-```haskell
-Main> mejor cuadrado triple 5
+ム mejor cuadrado triple 5
 25
 ```
