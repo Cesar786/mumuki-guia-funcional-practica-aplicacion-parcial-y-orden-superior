@@ -14,9 +14,9 @@ Nota: Resolverlo utilizando aplicación parcial y composición.
 Debe usarse (ya está definida) la función `techo`, que recibe un número y devuelve el entero superior (si es que el número no es ya entero):
 
 ```haskell
-Main> techo 3.2
+ム techo 3.2
 4.0
 
-Main> techo 1.0
+ム techo 1.0
 1.0
 ```
