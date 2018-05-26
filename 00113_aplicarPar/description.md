@@ -2,12 +2,12 @@ Definí la función `aplicarPar`, que recibe una función y dos valores, y devue
 resulta de aplicar la función a los dos valores.
 
 ```haskell
-Main> aplicarPar doble 3 12
+ム aplicarPar doble 3 12
 (6,24)
 ```
 
 ```haskell
-Main> aplicarPar even 3 12
+ム aplicarPar even 3 12
 (False, True)
 ```
 
