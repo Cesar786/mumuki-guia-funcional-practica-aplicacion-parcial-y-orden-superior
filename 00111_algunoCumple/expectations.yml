@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: existsAny
+- binding: algunoCumple
   inspection: HasBinding
