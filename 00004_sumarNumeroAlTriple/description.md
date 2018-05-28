@@ -4,9 +4,9 @@ Por ejemplo:
 
 ```haskell
 ム sumarNumeroAlTriple 3 2
-11
+11 -- Porque sumarle 2 al triple de 3, da como resultado 11.
+ム sumarNumeroAlTriple 5 1
+16 -- Porque sumarle 1 al triple de 5, da como resultado 16.
 ```
-
-Sumarle 2 al triple de 3, da como resultado 11.
 
 Resolvela usando composición y aplicación parcial.
