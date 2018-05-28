@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: Declares:sumaEsPar
+- binding: sumaEsPar
+  inspection: UsesComposition

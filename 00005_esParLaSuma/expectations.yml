@@ -1,6 +1,0 @@
----
-expectations:
-- binding: esParLaSuma
-  inspection: HasBinding
-- binding: esParLaSuma
-  inspection: HasComposition
