@@ -1,4 +1,4 @@
-Resolver la función `dobleDelLargo`, que da el doble del largo de una palabra.
+Escribí la función `dobleDelLargo`, que da el doble del largo de una palabra.
 
 ```haskell
 ム dobleDelLargo "aloha"
