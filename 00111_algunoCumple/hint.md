@@ -1,0 +1,1 @@
+Cuando decimos que un valor "cumple la condición" nos referimos a que devuelve `True` al pasarlo por parámetro a la función que recibe `algunoCumple`.

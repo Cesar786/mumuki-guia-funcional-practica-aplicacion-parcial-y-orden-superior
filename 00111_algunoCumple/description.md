@@ -1,4 +1,4 @@
-Definí la función `algunoCumple`,  que dadas una función booleana y tres valores devuelve si existe algún elemento de la  que haga verdadera la función.
+Definí la función `algunoCumple`, que recibe una función booleana y tres valores y nos dice si alguno de esos valores cumple la condición.
 
 ```haskell
 ム algunoCumple even 1 3 5
