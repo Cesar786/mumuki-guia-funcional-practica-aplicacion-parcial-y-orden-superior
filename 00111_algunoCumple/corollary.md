@@ -1,0 +1,1 @@
+Es tan común trabajar con este tipo de funciones que devuelven booleanos, que hasta tienen un nombre especial: _condiciones_. Así que ya sabes, cuando leas _condición_ pensa en una función que devuelve un booleano :wink:.
