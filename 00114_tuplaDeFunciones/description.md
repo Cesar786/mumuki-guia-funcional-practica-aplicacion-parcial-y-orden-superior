@@ -3,5 +3,5 @@ ordenado que es el resultado de aplicar las dos funciones al valor.
 
 ```haskell
 ム tuplaDeFunciones even doble 12
-(True, 24)
+(True, 24) --Porque 12 es par, y el doble de 12 es 24.
 ```

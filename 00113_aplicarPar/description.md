@@ -1,14 +1,9 @@
-Definí la función `aplicarPar`, que recibe una función y dos valores, y devuelve un **par** que 
-resulta de aplicar la función a los dos valores.
+Definí la función `aplicarPar`, que recibe una función y dos valores, y devuelve una tupla compuesta por el resultado de aplicar la función a cada valor.
 
 ```haskell
 ム aplicarPar doble 3 12
-(6,24)
-```
+(6,24) --Porque el doble de 3 es 6 y el doble de 12 es 24.
 
-```haskell
 ム aplicarPar even 3 12
-(False, True)
+(False, True) --Porque 3 es impar y 12 es par.
 ```
-
-_Y acordate... siempre podés mirar la ayuda_
