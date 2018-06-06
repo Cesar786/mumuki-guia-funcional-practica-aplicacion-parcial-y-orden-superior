@@ -1,0 +1,1 @@
+Es muy similar a lo que hiciste en `aplicarPar`, la diferencia es que en ese caso tenías que aplicar la misma función a dos valores y ahora tenés que aplicar dos funciones al mismo valor.  
