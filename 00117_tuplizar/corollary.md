@@ -1,1 +1,0 @@
-¡Bien hecho! Esta función ya existe en Haskel, y se llama `uncurry`. Ya veremos por qué. 
