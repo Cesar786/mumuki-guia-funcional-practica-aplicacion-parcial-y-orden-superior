@@ -7,8 +7,8 @@ Ejemplo:
 2 -- porque dio vuelta los parámetros, 
 -- y terminó haciendo 2/1 en lugar de 1/2
 
-ム darVuelta take [1..10] 3
-[1, 2, 3] -- take espera primero la cantidad y después la lista
+ム darVuelta (++) "balon" "cesto"
+"cestobalon" -- ya que gracias a darVuelta hicimos "cesto" ++ "balon"
 ```
 
 Escribí además su tipo. 
