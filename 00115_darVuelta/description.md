@@ -8,7 +8,7 @@ Ejemplo:
 -- y terminó haciendo 2/1 en lugar de 1/2
 
 ム darVuelta (++) "balon" "cesto"
-"cestobalon" -- ya que gracias a darVuelta hicimos "cesto" ++ "balon"
+"cestobalon" --ya que gracias a darVuelta hicimos "cesto" ++ "balon"
 ```
 
 Escribí además su tipo. 
